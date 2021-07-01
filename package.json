@@ -1,0 +1,29 @@
+{
+  "name": "ghaithdiab_6_29062021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghaithdiab/GhaithDiab_6_29062021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghaithdiab/GhaithDiab_6_29062021/issues"
+  },
+  "homepage": "https://github.com/ghaithdiab/GhaithDiab_6_29062021#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.41.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
